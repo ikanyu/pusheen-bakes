@@ -1,4 +1,8 @@
 # Pusheen Bakes
-- Personal fun project
-- Uses HTML5 to create animation effect
-- Click on Pusheen continuously to bake cookies!
+Personal fun project
+
+## Motivation
+Explore HTML5 to create animation effect
+
+### Result
+Clicking on Pusheen continuously to bake cookies!
