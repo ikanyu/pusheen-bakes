@@ -1,8 +1,8 @@
 # Pusheen Bakes
 Personal fun project
 
-## Motivation
+## Objective
 Explore HTML5 to create animation effect
 
-### Outcome
+## Outcome
 Clicking on Pusheen continuously to bake cookies!
